@@ -3,7 +3,7 @@
 
 Servo myServo;
 
-int trigPin = 7;
+int trigPin = 7; 
 int echoPin = 6;
 
 int greenLED = 5;
