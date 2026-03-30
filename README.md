@@ -1,7 +1,7 @@
 # Robotics-
 #include <Servo.h>
 
-Servo myServo;
+Servo myServo; 
 
 int trigPin = 7; 
 int echoPin = 6;
